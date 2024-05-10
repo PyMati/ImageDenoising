@@ -1,6 +1,6 @@
 
 # Ignoring folders with images
-
+.venv
 blur_dataset_scaled
 defocused_blurred
 motion_blurred
