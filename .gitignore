@@ -1,0 +1,7 @@
+
+# Ignoring folders with images
+
+blur_dataset_scaled
+defocused_blurred
+motion_blurred
+sharp
