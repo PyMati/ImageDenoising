@@ -1,9 +1,8 @@
 
 # Ignoring folders with images
 .venv
-blur_dataset_scaled
-defocused_blurred
-motion_blurred
+Ground_truth
+Noisy_folder
 sharp
 
 lab7.ipynb
